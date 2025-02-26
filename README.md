@@ -341,9 +341,7 @@ To run this app on your local machine, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-  
-
- git clone https://github.com/your-username/react-movie-finder.git
+    git clone https://github.com/your-username/react-movie-finder.git
    ```
 2. **Install dependencies**:
    Navigate to the project directory and run:
